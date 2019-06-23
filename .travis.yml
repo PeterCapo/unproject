@@ -1,0 +1,18 @@
+language: python
+
+python:
+  - "3.7-dev"  # 3.7 development branch
+
+env:
+    JWT_SECRET_KEY="HS256"
+
+install:
+  - pip install -r requirements.txt
+  - pip install coveralls
+
+script:
+  - python -m unittest
+  - coverage run --source=app -m unittest && coverage report
+
+after_success:
+  - coveralls 
