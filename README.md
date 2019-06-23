@@ -3,6 +3,10 @@
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0ce6e75c10d41ae8f3b7)
 
+#API Documentation
+https://documenter.getpostman.com/view/5180768/S1a1bUNs?version=latest
+
+
 # How it Works
 - User can signin the app. 
 - User can get all projects
