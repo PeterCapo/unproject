@@ -55,7 +55,6 @@ git clone -b unv https://github.com/PeterCapo/unproject.git
 
 | Method | Endpoint                         | Description                           | 
 | ------ | -------------------------------  | ------------------------------------- | 
-| POST   | /api/v2/project                  | User sign up                          |
 | POST   | /api/v2/login                    | User login                            | 
 | POST   | /api/v2/project                  | User creates new project              | 
 | GET    | /api/v2/project                  | User gets all  projects               | 
