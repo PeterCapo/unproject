@@ -30,5 +30,5 @@ app_config = {
     'development': DevelopmentConfig,
     'testing': TestingConfig,
     'release': ReleaseConfig,
-    'db_url': "dbname='flask_api' host='localhost' port='5432' user='postgres'"
+    'db_url': "postgres://nxwsoicuofzxvk:bc2ae45ec7aba2409d46c9abe457bf4031cfc752a78828903fa97581866f6ed9@ec2-54-83-1-101.compute-1.amazonaws.com:5432/d7qv96qij463es"
 }
