@@ -1,8 +1,9 @@
+[![Build Status](https://travis-ci.org/PeterCapo/unproject.svg?branch=unv)](https://travis-ci.org/PeterCapo/unproject)
 <a href="https://codeclimate.com/github/PeterCapo/unproject/maintainability"><img src="https://api.codeclimate.com/v1/badges/a00cd6fcca4971755dc8/maintainability" /></a>
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0ce6e75c10d41ae8f3b7)
-[![Build Status](https://travis-ci.org/PeterCapo/unproject.svg?branch=unv)](https://travis-ci.org/PeterCapo/unproject)
+
 
 # API Documentation
 https://documenter.getpostman.com/view/5180768/S1a1bUNs?version=latest
