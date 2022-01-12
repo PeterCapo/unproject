@@ -28,7 +28,7 @@ Mako==1.0.12
 MarkupSafe==1.0
 mccabe==0.6.1
 pep8==1.7.1
-pipenv==2018.10.13
+pipenv==2022.1.8
 psycopg2==2.7.5
 pycodestyle==2.4.0
 PyJWT==1.4.2
